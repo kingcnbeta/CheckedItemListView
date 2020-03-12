@@ -1,0 +1,7 @@
+*.[oa]
+*~
+*.class
+*.zip
+bin/
+gen/
+obj/
